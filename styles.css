@@ -25,3 +25,7 @@
 .navbar {
   margin-top: 20px; /* 20 piksel aşağıya kaydır */
 }
+
+.callout-warning {
+  margin-top: 20px; /* Yukarıdan boşluk */
+}
