@@ -1,0 +1,49 @@
+.callout-warning {
+  background-color: #343a40; /* Koyu arka plan rengi */
+  border-color: #ffc107; /* Uyarı renginin kenarlık rengi */
+  color: #ffc107; /* Uyarı metin rengi */
+  padding: 1rem; /* İçerik kenarlığı */
+  margin-bottom: 1rem; /* Alt taraftaki boşluk */
+  border: 1px solid transparent; /* Kenarlık */
+  border-radius: .25rem; /* Kenar yarıçapı */
+}
+
+.bg-primary-subtle {
+  background-color: #343a40; /* Koyu arka plan rengi */
+  color: #ffc107; /* Arka plan renginin metin rengi */
+}
+
+.navbar-brand {
+  color: #47a4f7; /* Açık mavi renk */
+  font-weight: bold; /* Kalın font */
+}
+
+.navbar {
+  border: 1px solid white; /* Beyaz 1px kenarlık */
+}
+
+.navbar {
+  margin-top: 0px; /* 20 piksel aşağıya kaydır */
+}
+
+.callout-warning {
+  margin-top: 10px; /* Yukarıdan boşluk */
+}
+
+/* Tractatus */
+.mySection {
+
+  padding: 2rem 0;
+}
+
+.mySection h2.s-heading {
+  font-size: 2.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.mySection h3.s-subheading {
+  font-size: 1rem;
+  font-weight: 600;
+  font-style: italic;
+}
